@@ -10,7 +10,7 @@ Disegnare un diagramma delle classi di analisi per modellare il dominio:
 * Gli studenti di un percorso seguono ﬁno a 8 moduli all’anno.
 * Alcuni titoli sono ‘congiunti’, ad esempio uno studente può iscriversi a due differenti percorsi (come ‘contabilità’ e ‘ragioneria’).
 
-Completare il diagramma per rappresentare (parte 1):
+Completare il diagramma per rappresentare:
 
 * La DMU è composta di 6 Facoltà
 
